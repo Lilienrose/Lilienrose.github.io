@@ -1,2 +1,2 @@
 # Hello world
-this is me
+this is me and im trynna to learn smth
